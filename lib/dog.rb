@@ -3,5 +3,9 @@ def Dog
     puts "Woof!"
   end
   
+  def sit
+    puts "Woof!"
+  end
+  
 end
 
